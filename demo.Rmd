@@ -23,7 +23,7 @@ n = 25
 set.seed(42)
 x = runif(n) # Generates 25 random numbers
 
-mean(x)
+median(x)
 ```
 
 If you do not want code to run just use:
