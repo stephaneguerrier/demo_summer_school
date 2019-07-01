@@ -5,7 +5,6 @@ output: word_document
 
 Experiment with the Rmd Code below and test output.
 
-Use * or _ to emphasize things:
 
 *this is in italic*  and _so is this_
 
