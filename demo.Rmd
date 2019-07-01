@@ -15,7 +15,7 @@ Experiment with the Rmd Code below and test output.
 
 **Links Custom:** [RMarkdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 
-Inline Code highlighting with `var(x)`. 
+Inline Code highlighting with `median(x)`. 
 
 ```{r calculate_mean, cache = TRUE}
 n = 25
