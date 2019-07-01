@@ -32,3 +32,6 @@ mean(x)
 ```
 
 You can also embed a calculation within the text to show that `r mean(x)` is the mean
+
+
+I've made some changes
